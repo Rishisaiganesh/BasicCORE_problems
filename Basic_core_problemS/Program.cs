@@ -13,6 +13,7 @@ namespace Basic_core_problemS
             Console.WriteLine("Press 3: To check Power of two Numbers");
             Console.WriteLine("Press4: to Check Harmonic NUmber");
             Console.WriteLine("Press5:to check Primefactor");
+            Console.WriteLine("Press6: to check ODD or EVEN");
             int selection = Convert.ToInt32(Console.ReadLine());
             switch (selection)
             {
@@ -35,6 +36,10 @@ namespace Basic_core_problemS
                 case 5:
                     Primefactorial Prime = new Primefactorial();
                     Prime.factorial();
+                    break;
+                case 6:
+                    ODDorEVEN check = new ODDorEVEN();
+                    check.oddoreven();
                     break;
             }
         }
