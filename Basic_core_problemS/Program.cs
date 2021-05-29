@@ -4,7 +4,7 @@ namespace Basic_core_problemS
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Welcome to basic core programs ");
             Console.WriteLine("Enter your choice");
@@ -15,6 +15,8 @@ namespace Basic_core_problemS
             Console.WriteLine("Press5:to check Primefactor");
             Console.WriteLine("Press6: to check ODD or EVEN");
             Console.WriteLine("Press7:To Swaping two numbers");
+            Console.WriteLine("press8:to cheak Alphabet is Vowel");
+            Console.WriteLine("Press9:TO check Division of two Numbers");
             int selection = Convert.ToInt32(Console.ReadLine());
             switch (selection)
             {
@@ -46,6 +48,19 @@ namespace Basic_core_problemS
                     swap obj = new swap();
                     obj.Swap(3, 10);
                     break;
+                case 8:
+                    Vowel vowel = new Vowel();
+                    vowel.CheckAlphabet();
+                    break;
+                case 9:
+                    DivisionTwoNumbers Div = new DivisionTwoNumbers();
+                    Div.division(10, 20);
+                    break;
+                default:
+                    Console.WriteLine("Please give valid input menction above");
+                    Program.Main();
+                    break;
+
             }
         }
     }
