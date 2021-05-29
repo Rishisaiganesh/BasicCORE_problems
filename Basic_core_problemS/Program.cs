@@ -11,6 +11,7 @@ namespace Basic_core_problemS
             Console.WriteLine("Press 1: to cheak HeadorTails");
             Console.WriteLine("Press 2 : To check Its a LeapYear or Not");
             Console.WriteLine("Press 3: To check Power of two Numbers");
+            Console.WriteLine("Press4: to Check Harmonic NUmber");
             int selection = Convert.ToInt32(Console.ReadLine());
             switch (selection)
             {
@@ -25,6 +26,10 @@ namespace Basic_core_problemS
                 case 3:
                     PowerOf2 Power = new PowerOf2();
                     Power.power();
+                    break;
+                case 4:
+                    Harmonic HA = new Harmonic();
+                    HA.HarmonicNumberSum();
                     break;
             }
         }
