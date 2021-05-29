@@ -14,6 +14,7 @@ namespace Basic_core_problemS
             Console.WriteLine("Press4: to Check Harmonic NUmber");
             Console.WriteLine("Press5:to check Primefactor");
             Console.WriteLine("Press6: to check ODD or EVEN");
+            Console.WriteLine("Press7:To Swaping two numbers");
             int selection = Convert.ToInt32(Console.ReadLine());
             switch (selection)
             {
@@ -40,6 +41,10 @@ namespace Basic_core_problemS
                 case 6:
                     ODDorEVEN check = new ODDorEVEN();
                     check.oddoreven();
+                    break;
+                case 7:
+                    swap obj = new swap();
+                    obj.Swap(3, 10);
                     break;
             }
         }
