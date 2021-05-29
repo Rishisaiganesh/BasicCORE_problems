@@ -1,0 +1,13 @@
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\obj\Debug\netcoreapp3.1\Basic_core_problemS.csprojAssemblyReference.cache
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\obj\Debug\netcoreapp3.1\Basic_core_problemS.AssemblyInfoInputs.cache
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\obj\Debug\netcoreapp3.1\Basic_core_problemS.AssemblyInfo.cs
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\obj\Debug\netcoreapp3.1\Basic_core_problemS.csproj.CoreCompileInputs.cache
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\bin\Debug\netcoreapp3.1\Basic_core_problemS.exe
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\bin\Debug\netcoreapp3.1\Basic_core_problemS.deps.json
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\bin\Debug\netcoreapp3.1\Basic_core_problemS.runtimeconfig.json
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\bin\Debug\netcoreapp3.1\Basic_core_problemS.runtimeconfig.dev.json
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\bin\Debug\netcoreapp3.1\Basic_core_problemS.dll
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\bin\Debug\netcoreapp3.1\Basic_core_problemS.pdb
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\obj\Debug\netcoreapp3.1\Basic_core_problemS.dll
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\obj\Debug\netcoreapp3.1\Basic_core_problemS.pdb
+C:\Users\naren\source\Basic_core_problemS\Basic_core_problemS\obj\Debug\netcoreapp3.1\Basic_core_problemS.genruntimeconfig.cache
