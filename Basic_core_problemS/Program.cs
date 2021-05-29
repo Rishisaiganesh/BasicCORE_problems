@@ -10,6 +10,7 @@ namespace Basic_core_problemS
             Console.WriteLine("Enter your choice");
             Console.WriteLine("Press 1: to cheak HeadorTails");
             Console.WriteLine("Press 2 : To check Its a LeapYear or Not");
+            Console.WriteLine("Press 3: To check Power of two Numbers");
             int selection = Convert.ToInt32(Console.ReadLine());
             switch (selection)
             {
@@ -20,6 +21,10 @@ namespace Basic_core_problemS
                 case 2:
                     leapyear leap = new leapyear();
                     leap.Leap();
+                    break;
+                case 3:
+                    PowerOf2 Power = new PowerOf2();
+                    Power.power();
                     break;
             }
         }
